@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff9047;
+}
+
+header {
+    background-color: #ff6600;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+#news-list {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.news-item {
+    background-color: #fcbc91;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.news-item button {
+    margin-left: 10px;
+}
